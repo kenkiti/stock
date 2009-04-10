@@ -1,7 +1,6 @@
 *.txt
-*.cvs
+*.csv
 dat
-lib
 bak
 .DS_Store
 
