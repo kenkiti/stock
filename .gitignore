@@ -1,0 +1,7 @@
+*.txt
+*.cvs
+dat
+lib
+bak
+.DS_Store
+
